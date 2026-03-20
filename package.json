@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "description": "Manual WebSocket test scripts for QR-scanner-be",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
